@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-toolkit-calculator-hw-20/static/css/main.e0b0694b.css",
+    "main.js": "/react-toolkit-calculator-hw-20/static/js/main.10a39a6d.js",
+    "static/js/787.4337e7e0.chunk.js": "/react-toolkit-calculator-hw-20/static/js/787.4337e7e0.chunk.js",
+    "index.html": "/react-toolkit-calculator-hw-20/index.html",
+    "main.e0b0694b.css.map": "/react-toolkit-calculator-hw-20/static/css/main.e0b0694b.css.map",
+    "main.10a39a6d.js.map": "/react-toolkit-calculator-hw-20/static/js/main.10a39a6d.js.map",
+    "787.4337e7e0.chunk.js.map": "/react-toolkit-calculator-hw-20/static/js/787.4337e7e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0b0694b.css",
+    "static/js/main.10a39a6d.js"
+  ]
+}
